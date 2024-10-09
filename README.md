@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/kaichijs"><img src="https://img.shields.io/github/followers/kaichijs?label=Takip%C3%A7iler&style=for-the-badge&logo=github&logoColor=white&labelColor=282828&color=4C566A" alt="GitHub Takipçi"></a>
-  <a href="https://twitter.com/kullaniciadi"><img src="https://img.shields.io/twitter/follow/kullaniciadi?style=for-the-badge&logo=twitter&logoColor=white&labelColor=282828&color=5E81AC" alt="Twitter Takipçi"></a>
+  <a href="https://twitter.com/benuwud"><img src="https://img.shields.io/twitter/follow/benuwud?style=for-the-badge&logo=twitter&logoColor=white&labelColor=282828&color=5E81AC" alt="Twitter Takipçi"></a>
 </p>
 
 <h2 align="center">
@@ -47,7 +47,7 @@
 
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35">
-  Favori Teknolojiler
+  Sevdiğim Diller
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35">
 </h2>
 
