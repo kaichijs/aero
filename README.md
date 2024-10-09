@@ -2,7 +2,7 @@
 <h1 align="center">Merhaba, ben Umut 👋</h1>
 
 <!-- Kısa tanıtım -->
-<p align="center">Front-End geliştirici ve teknoloji tutkunu!</p>
+<p align="center">Kendi halinde kodlarla oynayan biriyim.</p>
 
 <!-- Sosyal medya ikonları -->
 <p align="center">
