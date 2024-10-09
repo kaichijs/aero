@@ -13,8 +13,7 @@
 <!-- Projeler -->
 <h2 align="center">Projelerim</h2>
 <ul>
-  <li><a href="https://github.com/kaichijs/proje1">Proje 1</a> - Açıkladığınız projenin kısa tanımı.</li>
-  <li><a href="https://github.com/kaichijs/proje2">Proje 2</a> - Açıkladığınız diğer projenin kısa tanımı.</li>
+  <li><a href="https://github.com/kaichijs/proje1">Şuan yok</a> - Açıkladığınız projenin kısa tanımı.</li>
 </ul>
 
 <!-- GitHub istatistikleri -->
